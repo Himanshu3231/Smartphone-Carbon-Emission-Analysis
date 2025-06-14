@@ -9,6 +9,7 @@ Smartphones are indispensable in modern life, but their energy consumption contr
 🎯 Objectives
 
 - Measure daily smartphone usage across:
+
     -📱 Screen Time
     -🔌 Charging Hours
     -🌐 Internet Usage (Mobile Data & Wi-Fi)
