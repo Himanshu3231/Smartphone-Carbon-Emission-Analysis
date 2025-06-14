@@ -10,10 +10,10 @@ Smartphones are indispensable in modern life, but their energy consumption contr
 
 - Measure daily smartphone usage across:
 
-    -📱 Screen Time
-    -🔌 Charging Hours
-    -🌐 Internet Usage (Mobile Data & Wi-Fi)
-    -🎮 Gaming Hours
+        -📱 Screen Time
+        -🔌 Charging Hours
+        -🌐 Internet Usage (Mobile Data & Wi-Fi)
+        -🎮 Gaming Hours
 
 - Calculate corresponding carbon emissions (kg CO₂).
 - Visualize trends using Power BI dashboards.
