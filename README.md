@@ -59,5 +59,5 @@ High screen and gaming times directly correlated with increased emissions. Mobil
 - Smartphone Carbon Emission Analysis.pdf	(Detailed project report)
 - README.md	This readme file
 
-🙋‍♂️ Author
+🙋‍♂️ Author:
 Himanshu Kumar
